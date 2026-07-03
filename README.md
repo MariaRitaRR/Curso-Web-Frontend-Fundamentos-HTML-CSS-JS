@@ -46,7 +46,10 @@ Curso_Web_Frontend
 └── Seção_02
     └── Desafio curriculo
         ├── curriculum.html      # Exercício: currículo estruturado em HTML5
-        └── curriculum.css       # Estilização do currículo
+        └── curriculum.css
+    └── Exercício menu horinzontal
+        ├── curriculum_menu.html      # Exercício: currículo estruturado em HTML5
+        └── curriculum_menu.css               # Estilização do currículo
 ```
 
 ---
