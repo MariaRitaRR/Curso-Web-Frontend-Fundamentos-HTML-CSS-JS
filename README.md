@@ -50,6 +50,13 @@ Curso_Web_Frontend
     └── Exercício menu horinzontal
         ├── curriculum_menu.html      # Exercício: currículo estruturado em HTML5
         └── curriculum_menu.css               # Estilização do currículo
+└── Seção_04
+    └── ProjetoCSS-inicio
+        └── imagens
+        ├── styles    
+        └── index.html
+
+```
 ```
 
 ---
@@ -59,6 +66,8 @@ Curso_Web_Frontend
 | # | Seção | Exercício | Tecnologias | Status |
 |---|-------|-----------|-------------|--------|
 | 1 | Seção 02 | Desafio Currículo (`curriculum.html`) | HTML5 semântico, CSS3 | Concluído |
+| 2 | Seção 04 | Projeto 1 | Estrutura semântica e posicionamento | Concluído |
+
 
 > Repositório em construção — novos exercícios serão adicionados conforme o avanço no curso.
 
@@ -68,6 +77,12 @@ Curso_Web_Frontend
 - Hierarquia visual com `h1`–`h4` estilizados
 - Links externos com `target="_blank"`
 - Estilização com paleta de roxos, tipografia legível (`Segoe UI`) e espaçamento consistente
+
+
+### Projeto 1
+
+- Uso de tags semânticas ('header', 'main', 'footer') 
+- Alinhamento de links a direita
 
 ---
 
